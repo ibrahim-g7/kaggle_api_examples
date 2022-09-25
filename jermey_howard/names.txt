@@ -1,0 +1,28 @@
+jhoward/collaborative-filtering-deep-dive                 Collaborative Filtering Deep Dive                  Jeremy Howard  2022-06-27 22:42:32          65  
+jhoward/multi-target-road-to-the-top-part-4               Multi-target: Road to the Top, Part 4              Jeremy Howard  2022-06-25 21:51:57          99  
+jhoward/scaling-up-road-to-the-top-part-3                 Scaling Up: Road to the Top, Part 3                Jeremy Howard  2022-06-25 19:10:57         141  
+jhoward/small-models-road-to-the-top-part-2               Small models: Road to the Top, Part 2              Jeremy Howard  2022-06-19 10:18:59         162  
+jhoward/first-steps-road-to-the-top-part-1                First Steps: Road to the Top, Part 1               Jeremy Howard  2022-06-19 06:46:03         228  
+jhoward/the-best-vision-models-for-fine-tuning            The best vision models for fine-tuning             Jeremy Howard  2022-07-29 20:37:40         222  
+jhoward/how-random-forests-really-work                    How random forests really work                     Jeremy Howard  2022-05-23 23:51:47         201  
+jhoward/using-nbdev-export-in-a-kaggle-notebook           Using nbdev export in a Kaggle notebook            Jeremy Howard  2022-08-01 05:26:02          44  
+jhoward/resize-images                                     Resize images                                      Jeremy Howard  2022-05-06 00:28:59          25  
+jhoward/why-you-should-use-a-framework                    Why you should use a framework                     Jeremy Howard  2022-08-10 15:55:50         174  
+jhoward/linear-model-and-neural-net-from-scratch          Linear model and neural net from scratch           Jeremy Howard  2022-05-30 22:42:04         244  
+jhoward/saving-a-basic-fastai-model                       Saving a basic fastai model                        Jeremy Howard  2022-05-03 05:53:47         130  
+jhoward/practical-deep-learning-for-coders-chapter-1      Practical Deep Learning for Coders, Chapter 1      Jeremy Howard  2022-04-26 00:45:41          88  
+jhoward/which-image-models-are-best                       Which image models are best?                       Jeremy Howard  2022-06-13 09:21:54         242  
+jhoward/how-does-a-neural-net-really-work                 How does a neural net really work?                 Jeremy Howard  2022-08-25 20:07:16         241  
+jhoward/jupyter-notebook-101                              Jupyter Notebook 101                               Jeremy Howard  2022-04-24 20:36:56         493  
+jhoward/iterate-like-a-grandmaster                        Iterate like a grandmaster!                        Jeremy Howard  2022-05-26 23:47:59         564  
+jhoward/getting-started-with-nlp-for-absolute-beginners   Getting started with NLP for absolute beginners    Jeremy Howard  2022-05-16 23:18:05         640  
+jhoward/is-it-a-bird-creating-a-model-from-your-own-data  Is it a bird? Creating a model from your own data  Jeremy Howard  2022-08-15 20:20:12        1050  
+jhoward/from-prototyping-to-submission-fastai             From prototyping to submission (fastai)            Jeremy Howard  2019-10-30 21:07:22         144  
+jhoward/cleaning-the-data-for-rapid-prototyping-fastai    Cleaning the data for rapid prototyping (fastai)   Jeremy Howard  2019-10-24 18:27:51         157  
+jhoward/creating-a-metadata-dataframe-fastai              Creating a metadata DataFrame (fastai)             Jeremy Howard  2019-10-18 05:57:54         131  
+jhoward/fastai-v2-pipeline-tutorial                       fastai v2 Pipeline tutorial                        Jeremy Howard  2019-10-01 23:41:46          74  
+jhoward/some-dicom-gotchas-to-be-aware-of-fastai          Some DICOM gotchas to be aware of (fastai)         Jeremy Howard  2019-10-18 05:58:27         193  
+jhoward/don-t-see-like-a-radiologist-fastai               DON'T see like a radiologist! (fastai)             Jeremy Howard  2019-10-18 14:29:07         249  
+jhoward/improved-lstm-baseline-glove-dropout              Improved LSTM baseline: GloVe + dropout            Jeremy Howard  2018-01-28 00:45:39         367  
+jhoward/minimal-lstm-nb-svm-baseline-ensemble             Minimal LSTM + NB-SVM baseline ensemble            Jeremy Howard  2018-02-03 19:50:59         226  
+jhoward/nb-svm-strong-linear-baseline                     NB-SVM strong linear baseline                      Jeremy Howard  2018-02-03 19:44:11        1060  
